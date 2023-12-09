@@ -12,8 +12,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sle3pyy&show_icons=true&include_all_commits=true&count_private=true" />
   </picture>
 </div>  
-<div>
-  <picture height="150em" align="center">
+<div align="center">
+  <picture height="150em">
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sle3pyy&layout=compact&langs_count=8&theme=dark"
       media="(prefers-color-scheme: dark)"
