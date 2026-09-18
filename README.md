@@ -6,7 +6,7 @@ Currently studying at Universidade de Aveiro, taking an MSc course in Software E
 
 <p align="center">
       <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,py,linux,spring,git,kubernetes,terraform,ansible,elasticsearch,docker,mysql,mongodb" />
+            <img src="https://skillicons.dev/icons?i=java,py,linux,spring,git,kubernetes,terraform,ansible,elasticsearch,docker,postgres,mongodb" />
       </a>
 </p>
 
