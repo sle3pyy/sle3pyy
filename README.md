@@ -1,3 +1,15 @@
+## Hi, I'm Simão Santos
+
+Currently studying at Universidade de Aveiro, taking an MSc course in Software Engeneering. Get to know me a little better at https://portfolio.bingus.pt
+
+## Tech Stack
+
+<p align="center">
+      <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=java,py,linux,spring,nodejs,git,kubernetes,terraform,ansible,elasticsearch,docker,mysql,mongodb" />
+      </a>
+</p>
+
 ## GitHub Stats
 
 <table align="center"><tbody><tr border="none"><td width="50%" align="center">
